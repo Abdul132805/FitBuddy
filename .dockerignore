@@ -1,0 +1,10 @@
+.git
+.env
+.venv
+fitbuddy-env
+__pycache__
+*.py[cod]
+*.db
+.pytest_cache
+.idea
+.vscode

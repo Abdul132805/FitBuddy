@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.db
+.env
+.env.*
+!.env.example
+fitbuddy-env/
+.venv/
+.pytest_cache/
+.idea/
+.vscode/
